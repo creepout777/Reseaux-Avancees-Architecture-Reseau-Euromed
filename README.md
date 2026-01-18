@@ -30,8 +30,8 @@ Chaque bâtiment dispose de sa propre couche d’accès et de distribution, tout
 - Les **couches de distribution** de tous les bâtiments sont reliées à :
   - Une **couche cœur (Core Layer)** centrale
 - La couche cœur est composée de :
-  - **2 switches**
-  - **2 routeurs**, chacun associé à un switch afin de simuler un **switch Layer 3**
+  - **1 switch**
+  - **1 routeur**,  associé à un switch afin de simuler un **switch Layer 3**
 - Cette conception permet :
   - Une meilleure **scalabilité**
   - Une **tolérance aux pannes**
