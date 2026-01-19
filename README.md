@@ -1,4 +1,4 @@
-# Projet Réseau (AITAOUICHA YASSINE) : Architecture Réseau de l’EUROMED UNIVERSITY OF FES (EMUF)
+# Projet Réseau (AITAOUICHA YASSINE) : Architecture Réseau de l’EUROMED UNIVERSITY OF FES (UEMF)
 
 # Objectif du Projet
 Ce projet a pour objectif de concevoir et de simuler l’architecture réseau complète de l’**EUROMED UNIVERSITY OF FES (UEMF)** en utilisant **Cisco Packet Tracer**.  
